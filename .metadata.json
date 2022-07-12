@@ -1,9 +1,5 @@
 [
   {
-    "package": "cptec",
-    "oncran": true
-  },
-  {
     "package": "sidrar",
     "oncran": true
   }
