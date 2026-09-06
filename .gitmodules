@@ -5,6 +5,9 @@
 [submodule "brazilmaps"]
 	path = brazilmaps
 	url = https://github.com/rpradosiqueira/brazilmaps
+[submodule "datasus"]
+	path = datasus
+	url = https://github.com/rpradosiqueira/datasus
 [submodule "sidrar"]
 	path = sidrar
 	url = https://github.com/rpradosiqueira/sidrar
